@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-firebase",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "firebase provider for strapi upload",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -15,23 +15,21 @@
     "isProvider": true
   },
   "author": {
-    "email": "bent.rynning@gmail.com",
-    "name": "bentrynning",
-    "url": "http://strapi.io"
+    "email": "duongtungls@gmail.com",
+    "name": "Tung Duong"
   },
   "maintainers": [
     {
-      "name": "bentrynning",
-      "email": "bent.rynning@gmail.com",
-      "url": "http://strapi.io"
+      "name": "Tung Duong",
+      "email": "duongtungls@gmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bentrynning/strapi-provider-upload-firebase.git"
+    "url": "git://github.com/bachduongsolutions/strapi-provider-upload-firebase.git"
   },
   "bugs": {
-    "url": "https://github.com/bentrynning/strapi-provider-upload-firebase/issues"
+    "url": "https://github.com/bachduongsolutions/strapi-provider-upload-firebase/issues"
   },
   "engines": {
     "node": ">=10.0.0",
@@ -42,6 +40,6 @@
     "test": "echo \"no tests yet\""
   },
   "dependencies": {
-    "firebase-admin": "^8.5.0"
+    "firebase-admin": "^9.5.0"
   }
 }
